@@ -11,3 +11,6 @@ public class HurtowniaApplication {
 	}
 
 }
+class lol{
+	
+}
